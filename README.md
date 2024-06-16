@@ -1,4 +1,4 @@
-Project using APIs for data retrieval, processing, and visualization.
+Project using APIs for data retrieval, processing, and visualization. I used AI for debugging.
 
 Project Highlights Weather Data Analysis (WeatherPy)
 
