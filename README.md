@@ -1,23 +1,38 @@
-Project using APIs for data retrieval, processing, and visualization. I used AI for debugging.
+## Python API Challenege 
 
-Project Highlights Weather Data Analysis (WeatherPy)
+Project using weather APIs for data retrieval, processing, and visualization. I used AI for debugging.
 
-1st Objective: To analyze and visualize weather data for over 500 cities to understand weather patterns and their relationship to geographical location. 
+# Python API Challenge
 
-Tools Used: Python, OpenWeatherMap API, Pandas, Matplotlib, SciPy.
+This project uses weather APIs to retrieve, process, and visualize data. It has both analysis of weather patterns across cities and a vacation planning tool.
 
-Key Outputs: 
--Scatter plots showing the relationships between latitude and various weather parameters (temperature, humidity, cloudiness, and wind speed). 
--Linear regression analysis to understand the correlation between latitude and weather conditions.
+## Project Highlights
 
-Skills Demonstrated: API usage, data manipulation and analysis, statistical analysis, data visualization. Vacation Planning Tool (VacationPy)
+### Weather Data Analysis: *WeatherPy*
 
-2nd Objective: To use the weather data from WeatherPy to identify ideal vacation spots based on specific weather criteria and find nearby hotels using the Geoapify API.
+**Objective**: Analyze and visualize weather data for over 500 cities to understand patterns and their relationship to geographical location.
 
-Tools Used: Python, Geoapify API, Pandas, GeoViews.
+**Tools Used**: Python, OpenWeatherMap API, Pandas, Matplotlib, SciPy
 
-Key Outputs: 
--A map displaying cities with ideal weather conditions for a vacation. -Identification of nearby hotels for these cities, enhancing the vacation planning process.
- -Interactive maps to visualize hotel locations relative to the cities.
+**Key Outputs**:
+- Scatter plots depicting the relationship between latitude and various weather parameters:
+  - Temperature
+  - Humidity
+  - Cloudiness
+  - Wind Speed
+- Linear regression analysis to determine the correlation between latitude and weather conditions.
 
-Skills Demonstrated: API usage, geographic data visualization, filtering and refining data sets, interactive map creation.
+**Skills Demonstrated**:
+- API integration and usage
+- Data manipulation and analysis
+- Statistical analysis
+- Data visualization
+
+### Vacation Planning Tool: *VacationPy*
+
+**Objective**: Identify ideal vacation spots using weather data and find nearby hotels based on specified weather criteria.
+
+**Tools Used**: Python, Geoapify API, Pandas, GeoViews
+
+**Key Outputs**:
+- Interactive map displaying cities with ideal vacation weather conditions.
